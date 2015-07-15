@@ -23,4 +23,4 @@ PRODUCT_NAME := full_klteusc
 PRODUCT_DEVICE := klteusc
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
-PRODUCT_MODEL := klteusc
+PRODUCT_MODEL := Samsung Galaxy S5
